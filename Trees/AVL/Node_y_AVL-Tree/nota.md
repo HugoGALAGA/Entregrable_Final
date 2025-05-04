@@ -1,0 +1,1 @@
+***Una visualización completa de la estructura del árbol requeriría una función de impresión más sofisticada, que está fuera del alcance directo de mostrar las funcionalidades principales, pero la función visualize simple ayuda a ver el impacto del balanceo en la altura y el orden de los recorridos***
