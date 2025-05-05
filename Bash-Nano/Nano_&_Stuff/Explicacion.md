@@ -2,8 +2,6 @@
 
 ## 📄 Nano dentro de Bash y Otros Conceptos Clave
 
-Continuando nuestra exploración de Bash, es vital comprender su papel como intérprete y cómo interactúa con programas externos como editores de texto, además de profundizar en sus capacidades como lenguaje de scripting.
-
 ---
 
 ### 🤔 1. Ejecutando Nano desde Bash
