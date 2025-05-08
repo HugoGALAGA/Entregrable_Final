@@ -12,7 +12,7 @@ Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL.
 
 *   **Estructuras de Datos Lineales:**
     *   [Arrays](Arrays)
-    *   [Stacks (Pilas)](Stacks\(Pilas)
+    *   [Stacks (Pilas)](Stacks\ (Pilas))
     *   [Queues (Colas)](Queues)
     *   [Linked Lists (Listas Enlazadas)](Linkedlist)
 
