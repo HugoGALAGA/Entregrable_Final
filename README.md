@@ -6,6 +6,8 @@ En este repo estara el entregable final del curso, por ende aqui estaran un resu
 
 Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL. Utiliza esta lista para navegar por los conceptos clave:
 
+*   [**Conograma**](Cronograma.pdf)
+
 *   **Fundamentos:**
     *   [Introducción a las Estructuras de Datos](Introduccion_Estructura_De_Datos/Introduccion.md)
     *   [Introducción a la Complejidad Algorítmica]
