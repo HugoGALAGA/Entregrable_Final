@@ -14,7 +14,7 @@ Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL.
     *   [Arrays](Arrays)
     *   [Stacks (Pilas)](Stacks%20(Pilas))
     *   [Queues (Colas)](Queues)
-    *   [Linked Lists (Listas Enlazadas)](Linkedlist)
+    *   [Linked Lists (Listas Enlazadas)](LinkedList)
 
 *   **Conceptos y Tipos de Datos:**
     *   [Recursividad](Recursividad-Debugging-Call%20stack/Explicacion.md)
