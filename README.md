@@ -41,6 +41,6 @@ Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL.
     *   [Parcial 2](Parcial2)
 
 *   **Bash:**
-    *[Bash](Bash-Nano/Bash/Explicacion.md)
-    *[Nano](Bash-Nano/Nano_&_Stuff/Explicacion.md)
----
+       *   [Bash](Bash-Nano/Bash/Explicacion.md)
+       *   [Nano](Bash-Nano/Nano_&_Stuff/Explicacion.md)
+   ---
