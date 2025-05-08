@@ -11,10 +11,10 @@ Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL.
     *   Introducción a la Complejidad Algorítmica
 
 *   **Estructuras de Datos Lineales:**
-    *   Arrays
-    *   Stacks (Pilas)
-    *   Queues (Colas)
-    *   Linked Lists (Listas Enlazadas)
+    *   [Arrays](Arrays)
+    *   [Stacks (Pilas)](Stacks (Pilas))
+    *   [Queues (Colas)](Queues)
+    *   [Linked Lists (Listas Enlazadas)](Linkedlist)
 
 *   **Conceptos y Tipos de Datos:**
     *   Recursividad
