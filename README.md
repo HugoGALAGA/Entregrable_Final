@@ -10,7 +10,7 @@ Bienvenido al índice de los temas cubiertos en el curso hasta los árboles AVL.
 
 *   **Fundamentos:**
     *   [Introducción a las Estructuras de Datos](Introduccion_Estructura_De_Datos/Introduccion.md)
-    *   [Introducción a la Complejidad Algorítmica]
+    *   [Introducción a la Complejidad Algorítmica](Introduccion_Estructura_De_Datos/big-o.png)
 
 *   **Estructuras de Datos Lineales:**
     *   [Arrays](Arrays)
